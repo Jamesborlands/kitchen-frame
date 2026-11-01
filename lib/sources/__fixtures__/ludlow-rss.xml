@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ludlow Advertiser – News</title>
+    <link>https://www.ludlowadvertiser.co.uk/news/</link>
+    <description>Latest news from Ludlow Advertiser</description>
+    <item>
+      <title>Flooding alert issued for Ludlow town centre</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/flooding-alert</link>
+      <pubDate>Mon, 23 Jun 2026 08:00:00 +0000</pubDate>
+      <media:thumbnail url="https://example.com/img1.jpg" width="120" height="90"/>
+    </item>
+    <item>
+      <title>Ludlow Castle announces summer concert series</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/castle-concerts</link>
+      <pubDate>Mon, 23 Jun 2026 07:30:00 +0000</pubDate>
+      <media:thumbnail url="https://example.com/img2.jpg" width="120" height="90"/>
+    </item>
+    <item>
+      <title>4-bedroom home for sale in Ludford guide price £450,000</title>
+      <link>https://www.ludlowadvertiser.co.uk/property/ludford-4bed</link>
+      <pubDate>Mon, 23 Jun 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Win a £100 voucher for your local Ludlow restaurant</title>
+      <link>https://www.ludlowadvertiser.co.uk/win/restaurant-voucher</link>
+      <pubDate>Mon, 23 Jun 2026 06:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flooding alert issued for Ludlow town centre</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/flooding-alert-duplicate</link>
+      <pubDate>Mon, 23 Jun 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 best places to visit this summer</title>
+      <link>https://www.ludlowadvertiser.co.uk/lifestyle/best-places-summer</link>
+      <pubDate>Mon, 23 Jun 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Royal Family news: latest updates from Buckingham Palace</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/royal-family</link>
+      <pubDate>Mon, 23 Jun 2026 05:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

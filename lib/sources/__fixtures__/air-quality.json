@@ -1,0 +1,8 @@
+{
+  "hourly": {
+    "time": ["2026-06-23T10:00", "2026-06-23T11:00"],
+    "european_aqi": [22, 24],
+    "grass_pollen": [18, 21],
+    "birch_pollen": [null, 0]
+  }
+}

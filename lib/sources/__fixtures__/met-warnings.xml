@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Met Office warnings for West Midlands</title>
+    <item>
+      <title>Red warning of extreme heat affecting West Midlands</title>
+      <link>https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?id=red-heat</link>
+      <description>Red warning of extreme heat affecting West Midlands: Herefordshire, Worcestershire, Staffordshire, Shropshire valid from 0800 Wed 24 Jun to 2259 Thu 25 Jun</description>
+    </item>
+    <item>
+      <title>Amber warning of extreme heat affecting West Midlands</title>
+      <link>https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?id=amber-heat-glos</link>
+      <description>Amber warning of extreme heat affecting West Midlands: Warwickshire valid from 2300 Thu 25 Jun to 2259 Fri 26 Jun</description>
+    </item>
+    <item>
+      <title>Yellow warning of thunderstorm affecting West Midlands</title>
+      <link>https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?id=yellow-storm-1</link>
+      <description>Yellow warning of thunderstorm affecting West Midlands: Herefordshire, Worcestershire, Shropshire valid from 1200 Fri 26 Jun to 2100 Fri 26 Jun</description>
+    </item>
+    <item>
+      <title>Yellow warning of thunderstorm affecting West Midlands</title>
+      <link>https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?id=yellow-storm-2</link>
+      <description>Yellow warning of thunderstorm affecting West Midlands: Telford and Wrekin, Worcestershire, Shropshire valid from 1300 Fri 26 Jun to 2200 Fri 26 Jun</description>
+    </item>
+  </channel>
+</rss>

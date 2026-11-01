@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "parameter": "flow",
+      "latestReading": { "value": 12.5 },
+      "unitName": "m3/s"
+    },
+    {
+      "parameter": "level",
+      "latestReading": { "value": 0.246 },
+      "unitName": "m"
+    }
+  ]
+}

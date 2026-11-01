@@ -1,0 +1,35 @@
+// Cloudflare Workers config for cottage view (built by @opennextjs/cloudflare).
+// First-time setup: `npm run cf:setup` creates the buckets + KV namespace below
+// and fills in the KV id. Secrets (SITE_PIN, WHATSAPP_*, …) are set with
+// `npx wrangler secret put <NAME>` — see docs/cloudflare-migration.md.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cottage-view",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    // Self-reference so cached API routes can revalidate in the background
+    // (OpenNext memory queue). Must match "name" above.
+    { "binding": "WORKER_SELF_REFERENCE", "service": "cottage-view" }
+  ],
+  "r2_buckets": [
+    // OpenNext's cache for the 30-min cached API routes (news, flood, tides, …).
+    { "binding": "NEXT_INC_CACHE_R2_BUCKET", "bucket_name": "cottage-view-cache" },
+    // WhatsApp photos — private; served only through /api/photo behind the PIN.
+    { "binding": "PHOTOS", "bucket_name": "cottage-view-photos" }
+  ],
+  "kv_namespaces": [
+    // Photo + note records for the kitchen frame (lib/frame/store.ts).
+    { "binding": "FRAME", "id": "REPLACE_WITH_KV_NAMESPACE_ID" }
+  ],
+  "d1_databases": [
+    // Household data (photos, notes, to-dos, settings, frames)
+    { "binding": "DB", "database_name": "cottage-view", "database_id": "REPLACE_WITH_D1_DATABASE_ID", "migrations_dir": "migrations" }
+  ],
+  "observability": { "enabled": true }
+}

@@ -1,0 +1,157 @@
+{
+  "feedVersion": 1,
+  "generatedAt": 1791736138172,
+  "serverVersion": null,
+  "weather": {
+    "sceneUrl": "/watercolor/overcast.webp",
+    "tempC": 15,
+    "summary": "overcast · feels 13°",
+    "todayLine": "high 16° · low 10° · staying dry",
+    "uv": "uv 0",
+    "sun": "↑ 07:23 · ↓ 18:23",
+    "moon": "moon — new moon · 0% lit",
+    "fetchedAt": 1791736138172
+  },
+  "warning": {
+    "level": "yellow",
+    "title": "yellow weather warning",
+    "detail": "wind until Mon 12 Oct",
+    "bg": "#EFE8CE",
+    "fg": "#6E6230",
+    "dot": "#B6A03C"
+  },
+  "clocks": [
+    {
+      "key": "ludlow",
+      "label": "Ludlow",
+      "sublabel": "Anne & Peter",
+      "timeZone": "Europe/London",
+      "sceneUrl": "/watercolor/place-ludlow-summer.webp",
+      "tempC": 15,
+      "condition": "overcast"
+    },
+    {
+      "key": "edinburgh",
+      "label": "Edinburgh",
+      "sublabel": "Kate",
+      "timeZone": "Europe/London",
+      "sceneUrl": "/watercolor/place-edinburgh-summer.webp",
+      "tempC": 13,
+      "condition": "partly cloudy"
+    },
+    {
+      "key": "santaCruz",
+      "label": "Santa Cruz",
+      "sublabel": "Sam",
+      "timeZone": "America/Los_Angeles",
+      "sceneUrl": "/watercolor/place-santacruz-summer.webp",
+      "tempC": 19,
+      "condition": "light drizzle"
+    },
+    {
+      "key": "queenstown",
+      "label": "Queenstown",
+      "sublabel": "Tom",
+      "timeZone": "Pacific/Auckland",
+      "sceneUrl": "/watercolor/place-queenstown-winter.webp",
+      "tempC": 8,
+      "condition": "mainly clear"
+    }
+  ],
+  "clockSleep": {
+    "startHour": 23,
+    "endHour": 7
+  },
+  "notices": [
+    {
+      "id": "quake-santaCruz-1791531857430",
+      "kind": "quake",
+      "eyebrow": "near santa cruz",
+      "headline": "magnitude 3.2 earthquake — 4 km NE of Scotts Valley, CA.",
+      "detail": null,
+      "color": "#B0504A"
+    },
+    {
+      "id": "aurora-edinburgh",
+      "kind": "aurora",
+      "eyebrow": "northern lights · edinburgh",
+      "headline": "aurora possible tonight from Edinburgh (Kp 5.67).",
+      "detail": null,
+      "color": "#8A7BA6"
+    },
+    {
+      "id": "history-2002-A bomb exploded ",
+      "kind": "history",
+      "eyebrow": "on this day",
+      "headline": "A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.",
+      "detail": "2002",
+      "color": "#B07B33"
+    },
+    {
+      "id": "history-1987-Sri Lankan Civil",
+      "kind": "history",
+      "eyebrow": "on this day",
+      "headline": "Sri Lankan Civil War: The Indian Peace Keeping Force began Operation Pawan to take control of Jaffna from the Tamil Tigers and enforce their disarmament as a part of the Indo-Sri Lanka Accord.",
+      "detail": "1987",
+      "color": "#B07B33"
+    },
+    {
+      "id": "delight-did you know-Ludlow Castle, ",
+      "kind": "delight",
+      "eyebrow": "did you know",
+      "headline": "Ludlow Castle, begun in the 1080s, was one of the first stone castles in England.",
+      "detail": null,
+      "color": "#6B7C6B"
+    }
+  ],
+  "noticeRotateMs": 9000,
+  "photos": [
+    {
+      "id": "1",
+      "url": "/watercolor/place-edinburgh-summer.webp",
+      "from": "Kate",
+      "initials": "KA",
+      "at": 1
+    },
+    {
+      "id": "2",
+      "url": "/watercolor/place-santacruz-summer.webp",
+      "from": "Sam Hart",
+      "initials": "SH",
+      "at": 2
+    }
+  ],
+  "photoSlideMs": 20000,
+  "board": {
+    "rows": 2,
+    "cols": 18,
+    "rotateMs": 30000,
+    "pages": [
+      {
+        "lines": [
+          "HAPPY SUNDAY",
+          "LOVE FROM US ALL"
+        ],
+        "from": "Sam",
+        "initials": "SA"
+      },
+      {
+        "lines": [
+          "FISH AND CHIPS",
+          "TONIGHT?"
+        ],
+        "from": "Kate",
+        "initials": "KA"
+      }
+    ]
+  },
+  "night": {
+    "startHour": 23,
+    "endHour": 6,
+    "timeZone": "Europe/London"
+  },
+  "app": {
+    "latestVersionCode": null,
+    "minVersionCode": null
+  }
+}

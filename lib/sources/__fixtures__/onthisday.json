@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "text": "John Isner defeated Nicolas Mahut at Wimbledon, concluding the longest match in tennis history.",
+      "year": 2010,
+      "pages": [{ "title": "Isner–Mahut match" }]
+    },
+    {
+      "text": "Julia Gillard was sworn in as the first female prime minister of Australia.",
+      "year": 2010,
+      "pages": [{ "title": "Julia Gillard" }]
+    },
+    {
+      "text": "The Battle of Bannockburn began, a significant Scottish victory in the Wars of Scottish Independence.",
+      "year": 1314,
+      "pages": [{ "title": "Battle of Bannockburn" }]
+    },
+    {
+      "text": "   ",
+      "year": 1900
+    },
+    {
+      "text": "A malformed entry with no year.",
+      "pages": []
+    }
+  ],
+  "events": [],
+  "births": [],
+  "deaths": []
+}

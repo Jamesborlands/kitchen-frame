@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/2625",
+      "label": "Ludlow Teme",
+      "riverName": "River Teme",
+      "measures": []
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/2169",
+      "label": "Ludlow Corve",
+      "riverName": "River Corve",
+      "measures": []
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/2008",
+      "label": "Tenbury",
+      "riverName": "River Teme",
+      "measures": []
+    },
+    {
+      "label": "Unknown Gauge",
+      "measures": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ludlow Advertiser - Leisure</title>
+    <link>https://www.ludlowadvertiser.co.uk</link>
+    <description>Leisure RSS feed</description>
+    <item>
+      <title>Ludlow Castle to host free summer music events in its grounds</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/castle-summer-music/?ref=rss</link>
+      <description><![CDATA[A series of free outdoor concerts will run through July in the castle grounds.]]></description>
+      <media:thumbnail url="https://example.com/castle.jpg" width="360" height="240"/>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Former Bake-Off presenter Sue Perkins announces Ludlow show</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/sue-perkins-assembly-rooms/?ref=rss</link>
+      <description><![CDATA[The comedian will bring her new tour to Ludlow Assembly Rooms this autumn.]]></description>
+      <media:thumbnail url="https://example.com/perkins.jpg" width="360" height="240"/>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Edwina Hayes brings 'the sweetest voice in England' to the Assembly Rooms</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/edwina-hayes-assembly-rooms/?ref=rss</link>
+      <description><![CDATA[An intimate evening of folk at the venue next month.]]></description>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>New cafe with art, flowers and creative workshops opens</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/new-cafe-opens/?ref=rss</link>
+      <description><![CDATA[The cafe on Corve Street in Ludlow hosts weekend craft sessions.]]></description>
+      <pubDate>Sun, 21 Jun 2026 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Emmerdale and Coronation Street TV schedule changes you need to know this week</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/soap-schedule/?ref=rss</link>
+      <description><![CDATA[ITV has shuffled its soap line-up across the week.]]></description>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Morrisons launches huge breakfast with 23 items for £12 in cafés</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/morrisons-breakfast/?ref=rss</link>
+      <description><![CDATA[The supermarket's new café menu has gone viral online.]]></description>
+      <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ludlow Castle to host free summer music events in its grounds</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/castle-summer-music-dup/?ref=rss</link>
+      <description><![CDATA[Duplicate of the castle concerts item.]]></description>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Popular US fast food chain set to launch in the UK with 50 restaurants planned</title>
+      <link>https://www.ludlowadvertiser.co.uk/news/fast-food-chain/?ref=rss</link>
+      <description><![CDATA[The brand has confirmed its first sites for next year.]]></description>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>

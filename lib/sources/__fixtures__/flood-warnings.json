@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "severity": "Flood Warning",
+      "severityLevel": 2,
+      "description": "River Teme at Ludlow",
+      "message": "Flooding is expected. Act now.",
+      "floodArea": {
+        "riverOrSea": "River Teme",
+        "eaAreaName": "West Midlands"
+      },
+      "eaAreaName": "West Midlands"
+    }
+  ]
+}

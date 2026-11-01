@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "id": 1001,
+      "taxon": {
+        "name": "Acer pseudoplatanus",
+        "preferred_common_name": "sycamore",
+        "iconic_taxon_name": "Plantae"
+      },
+      "geojson": { "coordinates": [-2.7181, 52.3675] },
+      "photos": [{ "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1/square.jpg" }],
+      "observed_on_string": "2026-06-01"
+    },
+    {
+      "id": 1002,
+      "taxon": {
+        "name": "Turdus merula",
+        "preferred_common_name": "Eurasian Blackbird",
+        "iconic_taxon_name": "Aves"
+      },
+      "geojson": null,
+      "photos": [{ "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2/square.jpg" }],
+      "observed_on_string": "2026-06-02"
+    },
+    {
+      "id": 1003,
+      "taxon": null,
+      "geojson": { "coordinates": [-2.7200, 52.3700] },
+      "photos": [],
+      "observed_on_string": "2026-06-03"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+build/
+libs/
+assets/fonts/
+assets/dev/
+*.keystore
+*.jks

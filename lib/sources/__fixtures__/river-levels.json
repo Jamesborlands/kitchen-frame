@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "label": "River Teme at Ludlow",
+      "latestReading": { "value": 0.456 },
+      "unitName": "mASD"
+    },
+    {
+      "label": "River Corve at Ludlow",
+      "latestReading": { "value": 0.321 },
+      "unitName": "mASD",
+      "riverName": "River Corve"
+    }
+  ]
+}

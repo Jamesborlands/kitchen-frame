@@ -1,0 +1,25 @@
+{
+  "locationName": "Ludlow",
+  "filterLocationName": "Shrewsbury",
+  "trainServices": [
+    {
+      "std": "08:00",
+      "etd": "On time",
+      "platform": "1",
+      "operator": "Transport for Wales",
+      "destination": [{ "locationName": "Shrewsbury" }]
+    },
+    {
+      "std": "08:30",
+      "etd": "Cancelled",
+      "platform": null,
+      "operator": "Transport for Wales",
+      "destination": [{ "locationName": "Shrewsbury" }]
+    }
+  ],
+  "nrccMessages": [
+    {
+      "value": "<p>Strike action by <strong>RMT</strong> members may affect services on 24 June. Please check before you travel.</p>"
+    }
+  ]
+}

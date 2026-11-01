@@ -1,0 +1,21 @@
+{
+  "current": {
+    "temperature_2m": 18.4,
+    "apparent_temperature": 17.9,
+    "relative_humidity_2m": 64,
+    "precipitation": 0,
+    "weather_code": 3,
+    "wind_speed_10m": 12.3,
+    "uv_index": 4.1
+  },
+  "daily": {
+    "time": ["2026-06-23", "2026-06-24"],
+    "weather_code": [3, 61],
+    "temperature_2m_max": [21.5, 19.2],
+    "temperature_2m_min": [12.1, 11.4],
+    "sunrise": ["2026-06-23T04:51", "2026-06-24T04:51"],
+    "sunset": ["2026-06-23T21:24", "2026-06-24T21:24"],
+    "uv_index_max": [5.2, 4.0],
+    "precipitation_sum": [0, 3.4]
+  }
+}
